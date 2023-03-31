@@ -11,5 +11,8 @@
     "url": "(https://github.com/macoloren/node-02-nivelacion.git)"
   },
   "author": "Marco Lorenzana",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
 }
