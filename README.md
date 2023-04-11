@@ -7,3 +7,4 @@ node js
 * Exportamos y requerimos los mismos 
 * Requerimos nodulos de node
 * instalamos dependencias
+* creamos archivos con el modulo fs
