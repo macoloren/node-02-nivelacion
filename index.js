@@ -1,9 +1,8 @@
 const argv = require('yargs').argv;
-
 const {multiplicar} = require('./multiplicador/index');
 
+console.log(argv);
+
+
 const base = 4
-console.log(argv._);
-
-
-// multiplicar(base);
+multiplicar(base);
